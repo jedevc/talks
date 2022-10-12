@@ -17,8 +17,8 @@ By me, Justin Chadwell 🎉
 Hi, I'm Justin :)
 
 - I graduated from UoB in 2021
-- Used to do things with CSS and AFNOM, and now take part around the tech scene in Birmingham
-- I currently work at Docker, working on open-source fulltime
+- Used to do things with CSS and AFNOM
+- I now work at Docker, doing open-source fulltime
 
 ---
 
@@ -32,6 +32,7 @@ Lots of competing definitions... so this is how I see it:
 
 > Software that gives you *freedom*
 
+> - *Freedom* to inspect it
 > - *Freedom* to build on top of it
 > - *Freedom* to contribute your changes back to it
 > - *Freedom* to copy it and make your own version
@@ -52,7 +53,7 @@ Why spend time on working on open source at all?
 
 - More people = more knowledge = better results
 
-But also as people, we have a desire to share our work with the world.
+But also, it's fun to share work with the world.
 
 ---
 
